@@ -1,0 +1,32 @@
+-------------------------------------------------------------------------------
+Test set: ru.praktikum.CreatingOrderTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 4.365 s <<< FAILURE! - in ru.praktikum.CreatingOrderTest
+testCreatingOrder[0](ru.praktikum.CreatingOrderTest)  Time elapsed: 2.105 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <200> but was <400>.
+
+	at ru.praktikum.CreatingOrderTest.tearDown(CreatingOrderTest.java:47)
+
+testCreatingOrder[1](ru.praktikum.CreatingOrderTest)  Time elapsed: 0.59 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <200> but was <400>.
+
+	at ru.praktikum.CreatingOrderTest.tearDown(CreatingOrderTest.java:47)
+
+testCreatingOrder[2](ru.praktikum.CreatingOrderTest)  Time elapsed: 0.875 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <200> but was <400>.
+
+	at ru.praktikum.CreatingOrderTest.tearDown(CreatingOrderTest.java:47)
+
+testCreatingOrder[3](ru.praktikum.CreatingOrderTest)  Time elapsed: 0.751 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <200> but was <400>.
+
+	at ru.praktikum.CreatingOrderTest.tearDown(CreatingOrderTest.java:47)
+
