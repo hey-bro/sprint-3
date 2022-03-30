@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: ru.praktikum.CreatingCourierTest
--------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.295 s - in ru.praktikum.CreatingCourierTest
